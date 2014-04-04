@@ -1,0 +1,6 @@
+c:\users\volker\documents\visual studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\bin\Debug\WaagenProblemKlePro.exe.config
+C:\Users\Volker\Documents\Visual Studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\obj\Debug\WaagenProblemKlePro.csprojResolveAssemblyReference.cache
+C:\Users\Volker\Documents\Visual Studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\bin\Debug\WaagenProblemKlePro.exe
+C:\Users\Volker\Documents\Visual Studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\bin\Debug\WaagenProblemKlePro.pdb
+C:\Users\Volker\Documents\Visual Studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\obj\Debug\WaagenProblemKlePro.exe
+C:\Users\Volker\Documents\Visual Studio 2013\Projects\WaagenProblemKlePro\WaagenProblemKlePro\obj\Debug\WaagenProblemKlePro.pdb
